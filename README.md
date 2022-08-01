@@ -13,7 +13,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Training, validating and testing with
 
-* [Colab](https://colab.research.google.com/)- The web framework used
+* [Colab] (https://colab.research.google.com/)- The web framework used
 * possible to use a jupyter lab with local setup as well
 
 
