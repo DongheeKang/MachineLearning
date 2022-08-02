@@ -11,7 +11,7 @@ A step by step series of ML algorithms that I have learned how to work and apply
 
 Add additional notes about how to deploy this on a live system
 
-## Training, validating and testing with
+## Training, validating and testing
 
 * [Colab] (https://colab.research.google.com/) web notebook framework is used
 * It can be possible to use a jupyter lab in the local setup
