@@ -13,8 +13,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Training, validating and testing with
 
-* [Colab] (https://colab.research.google.com/)- The web framework used
-* possible to use a jupyter lab with local setup as well
+* [Colab] (https://colab.research.google.com/) web notebook framework is used
+* It can be possible to use a jupyter lab in the local setup
 
 
 
