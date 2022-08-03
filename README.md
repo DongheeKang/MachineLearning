@@ -19,7 +19,7 @@ Add additional notes about how to deploy this on a live system
 
 
 ## ML Deployment
-* Issue and subject on the ML operation are addressed in another sesssion below   
+* Issue and subject on the ML operation are addressed in another sesssion  
 
 
 ## Authors
